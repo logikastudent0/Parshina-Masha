@@ -1,0 +1,37 @@
+img { 
+    width: 300px; 
+    height: 200px; 
+    border: 10px plum solid;
+    border-radius: 25px;
+} 
+
+footer img { 
+    width: 70px; 
+    height: 40px
+}
+
+p {
+    font-size: 20px;
+}
+body {
+    background-color: lightgoldenrodyellow;
+} 
+header { 
+    
+    text-align: center;
+}
+
+main {
+    text-align: center;
+}
+header p {
+    background-color: burlywood; 
+    border-radius: 25px;
+    
+}
+nav a {
+    color: cornsilk;
+    background-color:burlywood ;
+    font-size: 20px;
+    text
+}
